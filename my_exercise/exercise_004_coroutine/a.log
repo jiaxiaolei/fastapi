@@ -1,0 +1,4 @@
+INFO:     127.0.0.1:54318 - "GET /search/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54357 - "GET /search/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54650 - "GET /search/200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54706 - "GET /search/200 HTTP/1.1" 504 Gateway Timeout
